@@ -1,0 +1,10 @@
+{
+  "id": "varpad",
+  "name": "VarPad",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Edit variables in a note and copy live-rendered text snippets.",
+  "author": "Gritee",
+  "authorUrl": "https://github.com/Gritee",
+  "isDesktopOnly": true
+}
